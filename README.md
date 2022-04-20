@@ -2,7 +2,6 @@
 - 👀 I’m interested in Soccer and blockchain
 - 🌱 I’m currently learning solidity, Rust and Blockchain basics
 - 💞️ I’m looking to collaborate on cool projects. Anything interesting
-- 📫 How to reach me ...
 
 <!---
 Parham94/Parham94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
